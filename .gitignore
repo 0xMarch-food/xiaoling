@@ -26,6 +26,9 @@ Thumbs.db
 *.log
 npm-debug.log*
 
+# 资料包（不上传）
+示范景区公开资料包/
+
 # 包锁文件（可选，如果团队统一版本则保留）
 # package-lock.json
 # yarn.lock
